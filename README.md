@@ -1,2 +1,2 @@
 # flask-tutorial-project
-A careers website
+A task management system
